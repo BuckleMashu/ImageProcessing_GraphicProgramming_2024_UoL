@@ -7,6 +7,8 @@ The core logic is managed in sketch.js, with distinct functionalities and extens
 colourspace2.js, extension1.js, extension2.js, facedetection.js, grayNbright.js, pixelated.js, RGBchannel.js, savingimage.js, extensionMaster.js).
 
 You can view the demo of the code here: https://www.youtube.com/watch?v=O2Q2ODiGESM
+![image](https://github.com/user-attachments/assets/50b9b606-8ca3-4420-9b94-16a12ea49965)
+
 
 Core Image Processing Tasks:
 

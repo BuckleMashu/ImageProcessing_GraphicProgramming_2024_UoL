@@ -9,6 +9,9 @@ colourspace2.js, extension1.js, extension2.js, facedetection.js, grayNbright.js,
 You can view the demo of the code here: https://www.youtube.com/watch?v=O2Q2ODiGESM
 ![image](https://github.com/user-attachments/assets/50b9b606-8ca3-4420-9b94-16a12ea49965)
 
+![image](https://github.com/user-attachments/assets/861dd78c-c081-43df-80eb-28b8979aa6ad)
+
+![image](https://github.com/user-attachments/assets/653c88c2-3038-4911-a57f-01131ee1c4d8)
 
 Core Image Processing Tasks:
 
